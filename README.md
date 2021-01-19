@@ -3,7 +3,6 @@ Sentiment Analysis of IMDB movie reviews using CLassical Machine Learning Algori
 Ensemble of CLassical Machine Learning Algorithms 
 Movie Rating Generator Using 10 Classifiers.
 
-
 Libraries used so far: Scikit-learn, Pandas, WordCloud, Numpy, nltk, textblob <br/>
 
 ### CLass Balance
@@ -36,9 +35,9 @@ Libraries used so far: Scikit-learn, Pandas, WordCloud, Numpy, nltk, textblob <b
 ### Perfromance Summary of all 10 Classifers
 ![alt text](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis/blob/main/results/performance_summary.jpg) <br/>
 
-### MOvie Review Rating Generate Result 1
+### Movie Review Rating Generate Result 1
 ![alt text](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis/blob/main/results/mvr_rating1.jpg) <br/>
 
-### MOvie Review Rating Generate Result 1
+### Movie Review Rating Generate Result 2
 ![alt text](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis/blob/main/results/mvr_rating2.jpg) <br/>
 
