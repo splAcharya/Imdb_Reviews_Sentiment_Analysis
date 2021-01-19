@@ -1,8 +1,10 @@
 # Imdb_Reviews_Sentiment_Analysis
 Sentiment Analysis of IMDB movie reviews using CLassical Machine Learning Algorithms,
-Ensemble of CLassical Machine Learning Algorithms and Deep Learning using Tensorflow Keras Framework. 
+Ensemble of CLassical Machine Learning Algorithms 
+Movie Rating Generator Using 10 Classifiers.
 
-Libraries used so far: Tensorflow Keras, scikit-learn, Pandas, WordCloud, Numpy. <br/>
+
+Libraries used so far: Scikit-learn, Pandas, WordCloud, Numpy, nltk, textblob <br/>
 
 ### CLass Balance
 ![alt text](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis/blob/main/results/Data_Classes.png?raw=true) <br/>
