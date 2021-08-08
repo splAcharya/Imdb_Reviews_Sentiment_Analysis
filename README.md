@@ -3,7 +3,16 @@ Sentiment Analysis of IMDB movie reviews using CLassical Machine Learning Algori
 Ensemble of CLassical Machine Learning Algorithms 
 Movie Rating Generator Using 10 Classifiers.
 
+
+## Deployed Web App
+The models trained here were exported and deployed as a Web App using Django in Heroku.
+Check this repo for the deployed app: https://github.com/splAcharya/Movie_Review_Ranker 
+<br/>
+
 Libraries used so far: Scikit-learn, Pandas, WordCloud, Numpy, nltk, textblob <br/>
+
+
+
 
 ### CLass Balance
 ![alt text](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis/blob/main/results/Data_Classes.png?raw=true) <br/>
